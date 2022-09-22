@@ -1,0 +1,85 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="I_A5+`x!qGE]G~N3Tim3" x="192" y="-131"></block><block type="device_gesture_event" id="NM?I3lf9kGSXXY#SXH3." x="447" y="-106"><field name="NAME">Gesture.LogoUp</field><statement name="HANDLER"><block type="device_show_leds" id="v.L0/ama#7)CJVWBPIwl"><field name="LEDS">`
+        . . . . . 
+        # . # . # 
+        . # . # . 
+        # . # . # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="!b3|?]ekGMMp9d;[$wdX"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        # . # . # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="KV$TJd7UOU]@84r2aTfX"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        # # # # # 
+        # # # # #
+        `</field></block></next></block></next></block></statement></block><block type="device_gesture_event" id="sp-5;J`aE_pS^7;$+Fup" x="718" y="-85"><field name="NAME">Gesture.LogoDown</field><statement name="HANDLER"><block type="device_show_leds" id="e(xka5b46/fF,qdz}Igk"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        . # . # . 
+        # . # . # 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="]ffVMc*zY`)x!MVV$ja:"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # . # . # 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="+AZ/BHVoixLrN80pidDQ"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></next></block></statement></block><block type="device_gesture_event" id="?T?sE,[g;F#ZdRP*-FIw" x="952" y="-91"><field name="NAME">Gesture.TiltLeft</field><statement name="HANDLER"><block type="device_show_leds" id="A$3wd=fJS@QL:nyyk@AP"><field name="LEDS">`
+        # # . # . 
+        # . # . . 
+        # # . # . 
+        # . # . . 
+        # # . # .
+        `</field><next><block type="device_show_leds" id="`xVGzE$eD:nUnr^$1[0g"><field name="LEDS">`
+        # # # . . 
+        # # . . . 
+        # # # . . 
+        # # . . . 
+        # # # . .
+        `</field><next><block type="device_show_leds" id="v2]_7*x)ocLf,u7BUU#!"><field name="LEDS">`
+        # # . # . 
+        # # . . . 
+        # # . . . 
+        # # . . . 
+        # # . . .
+        `</field></block></next></block></next></block></statement></block><block type="device_gesture_event" id=")1FcrK^^ar`Z0Cm,k.kc" x="1200" y="-94"><field name="NAME">Gesture.TiltRight</field><statement name="HANDLER"><block type="device_show_leds" id="G/9lK1*NT?0;}2n5?K)^"><field name="LEDS">`
+        . # . # # 
+        . . # . # 
+        . # . # # 
+        . . # . # 
+        . # . # #
+        `</field><next><block type="device_show_leds" id="9?Knr%RyO)z7VSn@Gq^q"><field name="LEDS">`
+        . . # # # 
+        . . . # # 
+        . . # # # 
+        . . . # # 
+        . . # # #
+        `</field><next><block type="device_show_leds" id="WR4TFnb!#b{[:aE6^`=D"><field name="LEDS">`
+        . . . # # 
+        . . . # # 
+        . . . # # 
+        . . . # # 
+        . . . # #
+        `</field></block></next></block></next></block></statement></block><block type="pxt-on-start" id="c[u]=Al]1q}dxzZ?+5.L" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="lWOnNc}==ubI}B@Aw;+1"><field name="LEDS">`
+        # . # . # 
+        . # . # . 
+        # . # . # 
+        . # . # . 
+        # . # . #
+        `</field></block></statement></block><block type="device_gesture_event" id="*SW3hH#2Jyss5{oQ6W7=" x="8" y="331"><field name="NAME">Gesture.ScreenUp</field><statement name="HANDLER"><block type="device_show_leds" id=":[f`/x!/*fJZc4i*gR9+"><field name="LEDS">`
+        # . # . # 
+        . # . # . 
+        # . # . # 
+        . # . # . 
+        # . # . #
+        `</field></block></statement></block></xml>
